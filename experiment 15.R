@@ -1,0 +1,6 @@
+numeric_vector <- c(1.2,2.4,3.3,4.5)
+character_vector <- c("apple","banana","grapes","iceapple")
+logical_vector <- c(TRUE,TRUE,FALSE,FALSE)
+cat(numeric_vector,"type:",class(numeric_vector),"\n")
+cat(character_vector,"type:",class(character_vector),"\n")
+cat(logical_vector,"type:",class(logical_vector),"\n")
